@@ -20,3 +20,7 @@
           N 1(급) - 자격증 기한 없음
 
 ---
+# Personal Project
+
+1. [Project 소개](../../wiki/Project-소개)
+2. [화면설계 USECASE ERD Project 구조](../../wiki/화면설계-USECASE-ERD-Project-구조)
