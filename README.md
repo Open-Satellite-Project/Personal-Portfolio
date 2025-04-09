@@ -21,6 +21,6 @@
 
 ---
 # Personal Project
-# Code Address 
+# Code Address : https://github.com/orgs/Open-Satellite-Project/repositories
 1. [Project 소개](../../wiki/Project-소개)
 2. [화면설계 USECASE ERD Project 구조](../../wiki/화면설계-USECASE-ERD-Project-구조)
